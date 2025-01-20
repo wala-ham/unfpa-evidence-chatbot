@@ -58,16 +58,4 @@ Follow these steps to run the project locally:
 3. `gcloud` CLI installed and configured.
 4. Required Python packages installed (see `requirements.txt`).
 
-### Steps
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/wala-ham/unfpa-evidence-chatbot.git
-   cd unfpa-evidence-chatbot
-
-## 📞 Contact
-
-- **Name**: Wala Hammemi
-- **GitHub**: [wala-ham](https://github.com/wala-ham)
-- **Email**: [wala.hammemi00@gmail.com](mailto:wala.hammemi00@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/wala-hammemi-6516a8231/](https://www.linkedin.com/in/wala-hammemi-6516a8231/) 
 
