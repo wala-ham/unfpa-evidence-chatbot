@@ -2,6 +2,18 @@
 
 The UNFPA Evidence Chatbot is an interactive system designed to provide insightful responses and analyses. It leverages advanced AI models and Google Cloud services to enhance data retrieval, question answering, and user interaction.
 
+## 🖼️ Execution Screenshots
+
+Here are a couple of screenshots demonstrating the chatbot in action:
+
+**Screen 1: Chatbot Interface and Response**
+
+![UNFPA Evidence Chatbot](static_img\screen-1.png)
+
+**Screen 2: Graph Generation**
+
+![Graph Generation](static_img\screen-2.png)
+
 ## 🌟 Features
 - **User Authentication**: Login and registration functionality to manage users securely.
 - **Conversation Management**: Create, load, and delete conversations with ease.
@@ -51,3 +63,10 @@ Follow these steps to run the project locally:
    ```bash
    git clone https://github.com/wala-ham/unfpa-evidence-chatbot.git
    cd unfpa-evidence-chatbot
+
+## 📞 Contact
+
+- **Name**: Wala Hammemi
+- **GitHub**: [wala-ham](https://github.com/wala-ham)
+- **Email**: [wala.hammemi00@gmail.com](mailto:wala.hammemi00@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/wala-hammemi-6516a8231/](https://www.linkedin.com/in/wala-hammemi-6516a8231/)
