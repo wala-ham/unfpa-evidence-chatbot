@@ -8,11 +8,11 @@ Here are a couple of screenshots demonstrating the chatbot in action:
 
 **Screen 1: Chatbot Interface and Response**
 
-![UNFPA Evidence Chatbot](static_img\screen-1.png)
+![UNFPA Evidence Chatbot](static_img/screen-1.png)
 
 **Screen 2: Graph Generation**
 
-![Graph Generation](static_img\screen-2.png)
+![Graph Generation](static_img/screen-2.png)
 
 ## 🌟 Features
 - **User Authentication**: Login and registration functionality to manage users securely.
@@ -69,4 +69,5 @@ Follow these steps to run the project locally:
 - **Name**: Wala Hammemi
 - **GitHub**: [wala-ham](https://github.com/wala-ham)
 - **Email**: [wala.hammemi00@gmail.com](mailto:wala.hammemi00@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/wala-hammemi-6516a8231/](https://www.linkedin.com/in/wala-hammemi-6516a8231/)
+- **LinkedIn**: [https://www.linkedin.com/in/wala-hammemi-6516a8231/](https://www.linkedin.com/in/wala-hammemi-6516a8231/) the icon of the image appears but the image itself dosnt' appear !
+
